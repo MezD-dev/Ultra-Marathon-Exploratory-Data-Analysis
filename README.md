@@ -19,16 +19,6 @@ The dataset is sourced from Kaggle:
 
 ---
 
-## 📂 **Repository Contents**
-| File Name | Description |
-|-----------|------------|
-| `ultra_marathon_EDA.ipynb` | Jupyter Notebook with the complete exploratory data analysis. |
-| `race_trends.png` | Visualization of race length trends over time. |
-| `age_performance.png` | Graph showing athlete speed by age group. |
-| `seasonal_patterns.png` | Insights into how race participation changes by season. |
-
----
-
 ## 📊 **Key Insights & Findings**
 ### **1️⃣ Race Distance & Performance**
 - Runners in **shorter ultra-marathons (50mi and below)** tend to have significantly higher average speeds.
