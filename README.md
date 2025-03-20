@@ -1,4 +1,4 @@
-# Ultra-Marathon EDA 🏃‍♂️🏃‍♀️
+# Ultra-Marathon EDA 
 
 This repository contains an **Exploratory Data Analysis (EDA)** of ultra-marathon race data. The analysis focuses on **athlete performance, race trends, and demographics** using Python.
 
